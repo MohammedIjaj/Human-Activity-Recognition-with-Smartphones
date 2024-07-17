@@ -2,6 +2,8 @@
 
 This project involves performing Exploratory Data Analysis (EDA), feature engineering, model training, evaluation, and making predictions using provided datasets.
 
+## Dataset  
+https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphones
 
 ## Introduction
 
